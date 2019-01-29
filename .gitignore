@@ -5,3 +5,9 @@ ToDos/
 *.zip
 *.xml
 *.mf
+/apps/JPAScoutManagement/target/
+/apps/JPATest/build/
+/apps/ScoutsFX/build/
+/apps/ScoutsFX/dist/
+/apps/SocketClient/build/
+/apps/SocketServer/build/
