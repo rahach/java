@@ -1,7 +1,8 @@
 arbeitsblaetter/
-itomski-ScoutManagement-master/
-JavaApplication1/
-JavaApplication4/
+nbproject/
+ScoutManagement/
 NetBeansProjects/
 ToDos/
 *.zip
+*.xml
+*.mf
